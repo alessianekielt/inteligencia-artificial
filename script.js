@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
         {
             texto:"Isso é assustador!",
-            afirmação: "Afirmação 1" 
+            afirmação: "No início" 
         },
         {
             texto:"Isso é maravilhoso!",
@@ -79,12 +79,11 @@ function mostraAlternativas(){
         botaoAlternativas.addEventListener("click", () =>
             respostaSelecionada(alternativa)); 
             function respostaSelecionada (opcaoSelecionada){
-                const afirmacoes = opcaoSelecionada.afirmacao;
+                const afirmacoes = opcaoSelecionada.afirmação;
                 historiaFinal += afirmacoes + "";
                 atual++;
                 mostraPergunta();
-            }
-        );
+            };
         caixaAlternativas.appendChild(botaoAlternativas);
         }
 }
