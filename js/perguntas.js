@@ -71,7 +71,7 @@ export const perguntas = [
                 afirmacao: [
                     "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
                 ],
-                proxima: 8,
+                proxima: 7,
                 }
         ]
     },
