@@ -15,7 +15,7 @@ export const perguntas = [
                     "Quis saber como usar IA no seu dia a dia."
                 ],
                 proxima: 2,
-                },
+                }
         ]
     },
     {
@@ -34,7 +34,7 @@ export const perguntas = [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
                 ],
                 proxima: 2,
-                },
+                }
         ]
     },
     {
@@ -53,7 +53,7 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
                 ],
                 proxima: 2,
-                },
+                }
         ]
     },
     {
@@ -72,7 +72,7 @@ export const perguntas = [
                     "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
                 ],
                 proxima: 2,
-                },
+                }
         ]
     },
     {
