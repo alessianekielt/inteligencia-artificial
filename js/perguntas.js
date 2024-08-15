@@ -26,14 +26,14 @@ export const perguntas = [
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis."
                 ],
-                proxima: 1,
+                proxima: 3,
                 },
             {
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
                 ],
-                proxima: 2,
+                proxima: 4,
                 }
         ]
     },
@@ -45,14 +45,14 @@ export const perguntas = [
                 afirmacao: [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
                 ],
-                proxima: 1,
+                proxima: 5,
                 },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
                 ],
-                proxima: 2,
+                proxima: 6,
                 }
         ]
     },
@@ -64,14 +64,14 @@ export const perguntas = [
                 afirmacao: [
                     "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
                 ],
-                proxima: 1,
+                proxima: 7,
                 },
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
                 afirmacao: [
                     "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
                 ],
-                proxima: 2,
+                proxima: 8,
                 }
         ]
     },
