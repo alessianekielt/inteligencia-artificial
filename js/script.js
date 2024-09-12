@@ -51,7 +51,7 @@ function respostaSelecionada(opcaoSelecionada) {
 
 function mostraResultado() {
     caixaPerguntas.textContent = `Em 2049, ${nome}`;
-    textoResultado.textContent = afirmacoes;
+    textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultados.classList.add("mostrar");
     botaoJogarNovamente.addEventListener("click", jogaNovamente);
