@@ -26,7 +26,7 @@ body {
     padding: 20px;
 }
 
-h1, .caixa-perguntas, .caixa-resultado{
+h1, .caixa-perguntas, .caixa-resultados{
     font-family: 'Chakra Petch', sans-serif;
 }
 
@@ -52,7 +52,7 @@ button:hover {
     display: none;
 }
 
-.caixa-resultados .mostrar{
+.caixa-resultados.mostrar{
     display: block;
 }
 
