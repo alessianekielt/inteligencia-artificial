@@ -49,7 +49,7 @@ function mostraResultado() {
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultado.classList.add("mostrar");
-    botaoJogarNovamente.addEventListener("click", jogaNovamente);
+    botaoJogarNovamente.addEventListener("click", jogaNovamente());
 }
 
 function jogaNovamente() {
