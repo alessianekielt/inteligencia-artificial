@@ -3,16 +3,16 @@ export const perguntas = [
         enunciado: "Ao ir para o colégio você se depara com um sol avermelhado e percebeu que o céu perdeu seu tom azul. Chegando lá, tem uma aula sobre o aquecimento global e como isso pode afetar nossas futuras gerações e até a nossa geração. Qual seria sua reação?",
         alternativas: [
             {   
-            texto: "Isso é assustador!",
+            texto: "Isso não é culpa minha!",
             afirmacao: [
-                    "Ficou com medo do que isso pode significar no nosso futuro "
+                    "Todos nós precisamos do planeta Terra para sobreviver, logo, se torna responsabilidade de todos zelar por ele. Se ele se encontra em estado de calamidade, é nossa culpa e se não mudarmos nossa atitude, geraremos nossa própria extinção!"
                 ],
                 proxima: 1,
             },
             {
                 texto: "Como chegamos nesse ponto?!",
                 afirmacao: [
-                    "Quis saber como podemos ajudar a resolver tal problema"
+                    "Podemos melhorar essas condições com nossas atitudes e conscientização do máximo possível de pessoas do nosso redor."
                 ],
                 proxima: 2,
                 }
